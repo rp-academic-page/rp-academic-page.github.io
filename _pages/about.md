@@ -7,83 +7,50 @@ redirect_from:
   - /about.html
 ---
 
+<p class="hero-kicker">Assistant Professor &middot; Department of Electrical Engineering &middot; IIT Kharagpur</p>
+
 About
 =====
-Experienced researcher, skilled in Electromagnetic theory and Computational electromagnetics with a Ph.D. and M. E. in Electrical Engineering from Indian Institute of Science (IISc). Currently working as Senior Research and Development Engineer at Simyog Technology.
+<p class="about-text">Rupam Pal is an Assistant Professor in the Department of Electrical Engineering at IIT Kharagpur, working on electromagnetic theory and computational electromagnetics with a focus on lightning, grounding and electromagnetic compatibility (EMC). Rupam holds a Ph.D. and an M.E. (Gold Medal) in Electrical Engineering from the Indian Institute of Science (IISc), Bengaluru. Before joining IIT Kharagpur in October 2026, Rupam spent nearly six years at SimYog Technology, Bengaluru, developing EMI/EMC simulation software.</p>
 
 Research Interests
 =====
 
-- Electromagnetic compatibility, EMI/EMC measurement and modeling
-
-- Lightning physics, lightning protection
-
-- Grounding systems design and optimization
-
-- Computational Electromagnetics
+<div class="interest-grid">
+  <div class="interest-card"><i class="fa-solid fa-wave-square" aria-hidden="true"></i><span>Electromagnetic compatibility &mdash; EMI/EMC measurement and modeling</span></div>
+  <div class="interest-card"><i class="fa-solid fa-bolt" aria-hidden="true"></i><span>Lightning physics and lightning protection</span></div>
+  <div class="interest-card"><i class="fa-solid fa-diagram-project" aria-hidden="true"></i><span>Grounding systems design and optimization</span></div>
+  <div class="interest-card"><i class="fa-solid fa-microchip" aria-hidden="true"></i><span>Computational electromagnetics (FDTD, SCSM, TD-EFIE)</span></div>
+</div>
 
 Experience
-=======
+=====
 
-Simyog Technology
-----
-Senior Development Engineer - III, Jan 2024 - Present
+<div class="timeline">
 
-Senior Development Engineer - II, Aug 2021 - Dec 2023
+  <div class="tl-item tl-current">
+    <div class="tl-date">Oct 2026 &ndash; Present</div>
+    <div class="tl-card">
+      <h3>Assistant Professor</h3>
+      <p class="tl-org">Department of Electrical Engineering, Indian Institute of Technology Kharagpur</p>
+    </div>
+  </div>
 
-Technical Consultant (Part-time) Jan 2021 - Jul 2021
+  <div class="tl-item">
+    <div class="tl-date">Jan 2021 &ndash; Oct 2026</div>
+    <div class="tl-card">
+      <h3>SimYog Technology Pvt. Ltd., Bengaluru</h3>
+      <ul class="tl-roles">
+        <li><span class="role">Senior Development Engineer &ndash; III</span><span class="when">Jan 2025 &ndash; Oct 2026</span></li>
+        <li><span class="role">Senior Development Engineer &ndash; II</span><span class="when">Aug 2021 &ndash; Dec 2024</span></li>
+        <li><span class="role">Technical Consultant (Part-time)</span><span class="when">Jan 2021 &ndash; Jul 2021</span></li>
+      </ul>
+    </div>
+  </div>
 
-
-Education
-========
-
-Doctor of Philosophy (PhD)
-----
-Department of Electrical Engineering, Indian Institute of Science (IISc), Jul 2015 – Aug 2022
-
-Project Title: Influence of soil’s electrical parameters on lightning stroke-current evolution and fields in the close range
-
-Summary: Used a self-consistent electrodynamic return-stroke model integrated into a timedomain FDTD framework, proposed a modified sub-cell technique for modeling corona
-dynamics and soil ionization in FDTD framework, and demonstrated up to 50% reduction in current amplitude due to soil resistivity change
-
-Domain of Research: Lightning Physics, Lightning Protection, Lightning EMC, Finite Difference Time Domain (FDTD), High Voltage
-
-Master of Engineering (ME)
-----
-Department of Electrical Engineering, Indian Institute of Science (IISc), 2013 – 2015
-
-Grade: CGPA 7.5/8 (Gold medalist)
-
-Project Title: Method for the evaluation of performance of grounding-grids buried in step-like terrain
-
-Summary: Developed an efficient numerical simulation method using the Surface-Charge Simulation
-Method (SCSM) for grounding grids in irregular terrains.
-
-Domain of Research: Surface-Charge Simulation Method, Method of Moments, Grounding system performance, Steady conduction Electromagnetics
-
-Bachelor of Electrical Engineering (BEE)
-----
-Department of Electrical Engineering, Jadavpur University, 2009 – 2013
-
-Grade: 8.76/10 (First class honors)
-
-Recognitions
-======
-
-- SimYog Technology : Recognition for timely delivery of new product SEMScope, 2024
-- IISc : Gold medal for Master of Engineering, 2015
-- GATE : AIR - 5, 2013
-- State Electrical Engineers Association, West Bengal : One-time scholarship for top 5 students of the Final Year Batch, Electrical Engineering Department, Jadavpur University
+</div>
 
 Contact
 =======
 
-Email-id : palrupam1990@gmail.com
-
-
-
-
-
-
-
-
+<i class="fa-solid fa-envelope" aria-hidden="true"></i> [palrupam@ee.iitkgp.ac.in](mailto:palrupam@ee.iitkgp.ac.in)

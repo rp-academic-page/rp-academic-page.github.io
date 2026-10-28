@@ -12,22 +12,25 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Industry Projects"
     url: /portfolio/
-        
-  #- title: "Awards and Achievements"
-   # url: /year-archive/
-    
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Awards & Recognition"
+    url: /awards/
+
   #- title: "CV"
    # url: /cv/
-    
+
   # - title: "CV"
   #   url: /cv-json/
-    
+
   #- title: "Guide"
    # url: /markdown/
