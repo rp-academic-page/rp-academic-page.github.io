@@ -11,7 +11,7 @@ redirect_from:
 
 About
 =====
-<p class="about-text">Rupam Pal is an Assistant Professor in the Department of Electrical Engineering at IIT Kharagpur, working on electromagnetic theory and computational electromagnetics with a focus on lightning, grounding and electromagnetic compatibility (EMC). Rupam holds a Ph.D. and an M.E. (Gold Medal) in Electrical Engineering from the Indian Institute of Science (IISc), Bengaluru. Before joining IIT Kharagpur in October 2026, Rupam spent nearly six years at SimYog Technology, Bengaluru, developing EMI/EMC simulation software.</p>
+<p class="about-text">Rupam Pal is an Assistant Professor in the Department of Electrical Engineering at IIT Kharagpur, working on electromagnetic theory and computational electromagnetics with a focus on lightning simulation, grounding performance, high voltage engineering and electromagnetic compatibility (EMC). He holds a Ph.D. and an M.E. (Gold Medal) in Electrical Engineering from the Indian Institute of Science (IISc), Bengaluru. Before joining IIT Kharagpur, he spent nearly six years at SimYog Technology Pvt. Ltd., Bengaluru, developing industry-grade EMI/EMC simulation software.</p>
 
 Research Interests
 =====
@@ -42,7 +42,8 @@ Experience
       <h3>SimYog Technology Pvt. Ltd., Bengaluru</h3>
       <ul class="tl-roles">
         <li><span class="role">Senior Development Engineer &ndash; III</span><span class="when">Jan 2025 &ndash; Oct 2026</span></li>
-        <li><span class="role">Senior Development Engineer &ndash; II</span><span class="when">Aug 2021 &ndash; Dec 2024</span></li>
+        <li><span class="role">Senior Development Engineer &ndash; II</span><span class="when">Jan 2023 &ndash; Dec 2024</span></li>
+        <li><span class="role">Senior R&D Engineer</span><span class="when">Aug 2021 &ndash; Dec 2022</span></li>
         <li><span class="role">Technical Consultant (Part-time)</span><span class="when">Jan 2021 &ndash; Jul 2021</span></li>
       </ul>
     </div>
