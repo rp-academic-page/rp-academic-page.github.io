@@ -3,6 +3,7 @@
    ========================================================================== */
 
 :root {
+  color-scheme: light;
   --accent                            : #1f4e8c;
   --accent-soft                       : #e8eef7;
   --card-bg                           : #ffffff;
@@ -19,25 +20,6 @@
   --global-masthead-link-color        : #1c2430;
   --global-masthead-link-color-hover  : #1f4e8c;
   --global-footer-bg-color            : #eef1f5;
-}
-
-html[data-theme="dark"] {
-  --accent                            : #7ea6e0;
-  --accent-soft                       : #1d2a3d;
-  --card-bg                           : #18202c;
-  --card-border                       : #2a3545;
-  --muted                             : #9aa6b8;
-  --global-bg-color                   : #10151d;
-  --global-base-color                 : #10151d;
-  --global-text-color                 : #e6eaf0;
-  --global-text-color-light           : #9aa6b8;
-  --global-link-color                 : #7ea6e0;
-  --global-link-color-hover           : #a9c4ec;
-  --global-link-color-visited         : #7ea6e0;
-  --global-border-color               : #2a3545;
-  --global-masthead-link-color        : #e6eaf0;
-  --global-masthead-link-color-hover  : #7ea6e0;
-  --global-footer-bg-color            : #0b0f15;
 }
 
 html, body, input, button, .masthead__inner-wrap,
